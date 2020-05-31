@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/CourseWork.dir/main.cpp.o CMakeFiles/CourseWork.dir/sha256.cpp.o CMakeFiles/CourseWork.dir/miner.cpp.o CMakeFiles/CourseWork.dir/proof.cpp.o CMakeFiles/CourseWork.dir/input.cpp.o  -o CourseWork  -lssl -lcrypto 

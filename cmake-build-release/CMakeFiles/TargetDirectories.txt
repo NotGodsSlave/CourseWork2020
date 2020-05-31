@@ -1,0 +1,3 @@
+/home/ngslave/Random/uni/CourseWork/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/ngslave/Random/uni/CourseWork/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/ngslave/Random/uni/CourseWork/cmake-build-release/CMakeFiles/CourseWork.dir
